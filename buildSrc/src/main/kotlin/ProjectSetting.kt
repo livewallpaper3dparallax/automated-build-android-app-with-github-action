@@ -16,10 +16,10 @@ object ProjectSetting {
     // ---------------------------------------------------------------------------------------------
 
     // Declaration app name
-    const val NAME_APP = "Github Action Automated"
+    const val NAME_APP = "aplikasiwallpaper"
 
-    const val APP_DOMAIN = "di"
-    const val APP_PLAY_CONSOLE = "nexeat"
+    const val APP_DOMAIN = "id"
+    const val APP_PLAY_CONSOLE = "bejo"
     const val APP_NAME = "wallpaper"
 
     const val VERSION_MAJOR = 2
