@@ -16,7 +16,7 @@ object ProjectSetting {
     // ---------------------------------------------------------------------------------------------
 
     // Declaration app name
-    const val NAME_APP = "aplikasiwallpaper"
+    const val NAME_APP = "wallpaper aplikasi"
 
     const val APP_DOMAIN = "id"
     const val APP_PLAY_CONSOLE = "bejo"
